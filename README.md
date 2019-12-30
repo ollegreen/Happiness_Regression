@@ -1,3 +1,19 @@
+# Process
+We will take a look at what has the biggest effect on Happiness, meaning what is the best thing to take a look at 
+
+# Columns
+- Country (region) - Name of the country.
+- Ladder - Cantril Ladder is a measure of life satisfaction.
+- SD of Ladder - Standard deviation of the ladder.
+- Positive affect - Measure of positive emotion.
+- Negative affect - Measure of negative emotion.
+- Social support - The extent to which Social support contributed to the calculation of the Happiness Score.
+- Freedom - The extent to which Freedom contributed to the calculation of the Happiness Score.
+- Corruption - The extent to which Perception of Corruption contributes to Happiness Score.
+- Generosity - The extent to which Generosity contributed to the calculation of the Happiness Score.
+- Log of GDP per capita - The extent to which GDP contributes to the calculation of the Happiness Score.
+- Healthy lifeexpectancy - The extent to which Life expectancy contributed to the calculation of the Happiness Score.
+
 # Context
 
 The World Happiness Report is a landmark survey of the state of global happiness that ranks 156 countries by how happy their citizens perceive themselves to be. This year’s World Happiness Report focuses on happiness and the community: how happiness has evolved over the past dozen years, with a focus on the technologies, social norms, conflicts and government policies that have driven those changes.
